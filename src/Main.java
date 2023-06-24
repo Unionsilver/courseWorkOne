@@ -11,7 +11,7 @@ public class Main {
         Employee employee6 = new Employee("Никитин Флор Георгьевич", 4, 60000);
         Employee employee7 = new Employee("Кабанов Александр Андреевич", 3, 70000);
         Employee employee8 = new Employee("Семёнов Григорий Филиппович", 2, 80000);
-        Employee employee9 = new Employee("Егоров Аверкий Георгьевич ", 1, 90000);
+        Employee employee9 = new Employee("Егоров Аверкий Георгьевич", 1, 90000);
         Employee employee10 = new Employee("Филатов Исаак Германович ", 1, 100000);
 
         employee[0] = employee1;

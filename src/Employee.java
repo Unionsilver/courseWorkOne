@@ -40,7 +40,7 @@ public class Employee {
     }
 
     public String toString() {
-        return "id " + getId() + ". ФИО -  " + getFullName() + ", отдел " + getDepartment() + ", зарплата " +
+        return "id " + getId() + ".  ФИО -  " + getFullName() + ", отдел " + getDepartment() + ", зарплата " +
                 getSalary();
     }
 }
